@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+button{
+    min-width: 20px;
+    min-height: 25px;
+}
+.jumbotron{
+    margin: 25px;
+    border-radius: 10px;
+}
